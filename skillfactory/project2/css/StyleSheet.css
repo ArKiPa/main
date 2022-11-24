@@ -136,7 +136,7 @@ a:hover {
 }
 
 .section1 {
-    background-image: url(/img/img1.jpg);
+    background-image: url(../img/img1.jpg);
     background-size: cover;
     max-height: 707px;
     height: 160vh;
